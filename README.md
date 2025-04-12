@@ -36,6 +36,8 @@ Data Cleaning & Modeling
 
 Custom Visuals & Slicers
 
-##Dashboard
+
+#Dashboard
+
 ![Screenshot 2025-04-12 122243DD](https://github.com/user-attachments/assets/46b9a29e-6b08-444a-871d-b0d1d92b7a0f)
 
